@@ -1,2 +1,2 @@
-#MyGit
+*MyGit
 this is git
