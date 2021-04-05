@@ -1,2 +1,2 @@
 *MyGit
-this is git
+this is Eric
