@@ -1,0 +1,55 @@
+[33mcommit 1692745c68baf21a895ec4f788b1d661550f5282[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 11:20:34 2021 +0800
+
+    lmao
+
+[33mcommit 1b711049f50ef982014f81b102a585e9c72cdea0[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 11:16:55 2021 +0800
+
+    Add Eric
+
+[33mcommit 32215bde72be8b6b1f6855023e9ad2fec9c75d34[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 11:15:48 2021 +0800
+
+    Added2
+
+[33mcommit 0b7d81e1a6cdf864d4560fa4e33a4b5ca153e959[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 11:13:47 2021 +0800
+
+    Added
+
+[33mcommit 281e5dd1d8454c1d7409307c3d8b78bb090aa08c[m
+Merge: 96e711f 5e5ff73
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 11:04:42 2021 +0800
+
+    Merge branch 'login'
+    Added login
+
+[33mcommit 5e5ff73d8efba59f0b52aac2a431a82a39cd3c55[m[33m ([m[1;32mlogin[m[33m)[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 10:59:06 2021 +0800
+
+    login form
+
+[33mcommit 96e711f17984567fbfc695958ce586521cec2177[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 10:56:31 2021 +0800
+
+    another change
+
+[33mcommit 0249e60ad58d04d6ce3719fcb59a82543ed97e5d[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 10:45:27 2021 +0800
+
+    app.py
+
+[33mcommit 99a29883c9c6c66fea6b4cc9651ce868b49b8663[m
+Author: Vantus <victortnay@hotmail.com>
+Date:   Mon Apr 5 10:35:16 2021 +0800
+
+     Initial commit
